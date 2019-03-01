@@ -1,0 +1,25 @@
+.nav-item.active{
+    background-color: white  ;
+    border-radius: 5px;
+}
+.navbar-light{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.row{
+    margin: 10px auto;
+    padding: 150px 0px 1x50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400 px;
+}
+footer {
+    background-color: white;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+
+}
