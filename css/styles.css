@@ -1,25 +1,41 @@
 .nav-item.active{
-    background-color: white  ;
-    border-radius: 5px;
+    background-color: #f0787863  ;
 }
 .navbar-light{
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 1);
 }
 
+.btn-personalizado{
+    background-color: #f07878b2  ;
+    color: white;
+}
+
+.link-personalizado{
+    color: #ee6868c2  ;
+}
 .row{
     margin: 10px auto;
-    padding: 150px 0px 1x50px 0px;
-    border-bottom: 1px ridge;
     min-height: 400 px;
+    padding: 20px 10px 20px 10px;
 }
 footer {
     background-color: white;
     margin: 0px auto;
-    padding: 20px 0px 20px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 .jumbotron{
+    padding: 70px 30px 0px 30px;
+    margin: 0px auto;
+    background-color: rgba(241, 229, 229, 0.493);
+
+}
+
+.principal{
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
+}
 
+.tab-pane{
+    padding: 30px 30px 30px 30px;
 }
